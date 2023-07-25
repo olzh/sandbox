@@ -6,3 +6,5 @@ for staged and not staged files
 Checking gui
 Here I continue the main path
 At this point the main branch is protected. Will see how it goes
+Previous commit was append to the main regardless of protection.
+Let's try again
