@@ -5,8 +5,16 @@ Let's see how diff works
 for staged and not staged files
 Checking gui
 
+
 *************
 Mararenko Marharyta
 *************
 
 adding something to this branch while conflict exists
+
+Here I continue the main path
+At this point the main branch is protected. Will see how it goes
+Previous commit was append to the main regardless of protection.
+Let's try again
+
+Resolving conflict manually at GitHub by keeping changes from both branches
