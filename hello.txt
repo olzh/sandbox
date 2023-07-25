@@ -8,3 +8,5 @@ Checking gui
 *************
 Mararenko Marharyta
 *************
+
+adding something to this branch while conflict exists
