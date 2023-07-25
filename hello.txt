@@ -4,3 +4,4 @@ And one more line added at GitHub
 Let's see how diff works
 for staged and not staged files
 Checking gui
+Here I continue the main path
