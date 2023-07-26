@@ -20,5 +20,9 @@ Let's try again
 Resolving conflict manually at GitHub by keeping changes from both branches
 *************
 Mararenko Marharyta
-commit to main
+commit to main - false
+*************
+*************
+Mararenko Marharyta
+commit from new branch
 *************
