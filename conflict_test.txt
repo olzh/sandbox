@@ -1,1 +1,1 @@
-This text is added in hotfix branch
+this text is added in new_feature branch and had a conflict with main, that was resolved
